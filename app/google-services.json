@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707008040019",
+    "project_id": "silentmoon-app",
+    "storage_bucket": "silentmoon-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707008040019:android:903b55147a19dd52824aa6",
+        "android_client_info": {
+          "package_name": "com.dummies.silentmoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39_NTGGF-urtDLekJ827zEVvipq7grZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
