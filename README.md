@@ -1,4 +1,4 @@
-Silent Moon 🌙
+Silent Moon Application 🌙
 
 Silent Moon is a Kotlin-based project aimed at improving your sleep quality through intelligent tracking and personalized analysis. The app helps users understand their sleep patterns, provides actionable insights, and promotes better mental and physical well-being.
 
